@@ -1,4 +1,4 @@
-module github.com/kxchange/go-amqp
+module github.com/dulabs/go-amqp
 
 go 1.13
 
